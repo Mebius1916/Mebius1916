@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on open source project.
 - 📫 How to reach me Email:liaoshihan176@gmail.com
 - 💫 Favorite game player: Aono(951) & TheShy.
-- 🌟undergraduate: Northern Minzu University.
+- 🌟Undergraduate: Northern Minzu University.
 - 🌱 Favorite anime author: Makoto Shinkai.
 - 🚀 Favorite author of novels: 江南.
 - 😄 Hobbies: ACG and photography.
