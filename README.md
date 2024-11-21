@@ -1,5 +1,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Mebius1916&anuraghazra"  height="200" />    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" height="200" />
-- 👋 Hi, I’m Mebius, a front-end engineer from the 26th cohort, looking for an internship in a large company.
+- 👋 Hi, I'm Mebius, a front-end engineer from the 26th cohort, is currently interning at iFLYTEK.
 - 👀 I’m interested in Front-end, Blockchain, Artificial Intelligence.
 - 💭 Gold Medal Winner of the ICPC Western Regional Contest.
 - 💞️ I’m looking to collaborate on open source project.
