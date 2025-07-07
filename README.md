@@ -9,7 +9,7 @@
 - 🌱 Favorite anime author: Makoto Shinkai.
 - 🚀 Favorite author of novels: 江南.
 - 😄 Hobbies: ACG and photography.
-- ⚡ A former Apex defender.
+- ⚡ A Apex defender.
 
 
 
